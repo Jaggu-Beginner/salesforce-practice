@@ -1,1 +1,1 @@
-Learning Git and Salesforce Integration
+Learning Branching in Git
